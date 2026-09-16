@@ -1,1 +1,2 @@
 print("allow") 
+print("test")
